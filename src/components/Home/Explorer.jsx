@@ -64,16 +64,6 @@ export const Explorer = () => {
               </span>
             </p>
           </div>
-          <div className="md:col-span-3 lg:col-span-5 mx-auto">
-            <div className="hidden lg:flex  justify-center mt-[-1rem]">
-              <a href="" className="relative hidden lg:inline-block">
-                <span className="absolute bg-white text-black px-1 rounded-[0.375rem] right-[.75rem] top-[-.5rem]">
-                  Ad
-                </span>
-                <img src="/assets/moonpay_321x101.webp" alt="" className="rounded max-w-full h-auto" />
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </div>
